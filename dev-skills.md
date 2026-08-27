@@ -1,0 +1,21 @@
+- [[coding|Actually coding]]
+	- Time on task
+	- Focused practice (exercism)
+	- Cross training (functional language, ops/infra, project management)
+	- Scripting(bash/python automation)
+- Specific tools
+	- [[git|Git]]
+	- Line-by-line debugging
+	- IDE features (finding files, automations, plugins, customization)
+	- [[terminal|Terminal]](commands, customization, comfort, automations)
+		- gnu/bash standard tools
+	- AI agent stuff(don't let this do the learning for you)
+- Soft(er) skills
+	- Component design (architecture at the component/design pattern level)
+	- System architecture (big building blocks, protocols)
+		- The funnel (Architecture > component design > code)
+	- Agile(Estimation, updates, working with PMs &EMs)
+	- Asking for help
+	- Note-taking (tracking tasks, knowledge, studying)
+	- Team norms
+- [[how-to|Random skills not to forget]]

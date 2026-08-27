@@ -1,5 +1,5 @@
 ## Dev-skills seed
-This repo is intended to be a note-taking seed that you can grow into a foundation for your career in software engineering. The idea is that, rather than giving you the entire map, this gives you a piece of it. It's enough to get started with just enough structure to get you thinking about how you want to take notes on your journey.
+This repo is intended to be a note-taking seed that you can grow into a foundation for your career in software engineering. It is intentionally incomplete. The idea is that, rather than giving you the entire map, this gives you a piece of it. It's enough to get started with just enough structure to get you thinking about how you want to take notes on your journey.
 
 ## How to use
 - Fork the repo or otherwise make a personal copy.
@@ -10,6 +10,7 @@ This repo is intended to be a note-taking seed that you can grow into a foundati
 	- Maybe you want [frontmatter](https://github.com/Kernix13/markdown-cheatsheet/blob/master/frontmatter.md) for date-tracking or tagging or something else. Perfect! _Tear it apart_.
 - Take notes as you learn things.
 - Take notes as you do work.
+- Create links between new and old knowledge
 - Setup backup software
 
 ## Considerations

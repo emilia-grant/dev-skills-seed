@@ -16,7 +16,7 @@ This repo is intended to be a note-taking seed that you can grow into a foundati
 
 ## Considerations
 - The note-taking software you use isn't particularly important as long as it allows you to easily link between documents and do full text search.
-	- The [Zettalkasten guide](https://zettelkasten.de/introduction/#choosing-software) recommends staying away from proprietary formats (e.g. notion) because lock-in can result in you losing your data or require you to stick with a paid tool for the rest of your life.
+	- The [Zettelkasten guide](https://zettelkasten.de/introduction/#choosing-software) recommends staying away from proprietary formats (e.g. notion) because lock-in can result in you losing your data or require you to stick with a paid tool for the rest of your life.
 	- [Obsidian](https://obsidian.md/) & [Joplin](https://joplinapp.org/) both work great for markdown. The original Zettalkasten was instrumented using pen and paper. There are a million options.
 - Anything not backed up will be lost.
 	- Git works _okay_, but you have to remember to commit and push.

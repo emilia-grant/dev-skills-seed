@@ -8,9 +8,9 @@ This repo is intended to be a note-taking seed that you can grow into a foundati
 	- Maybe you don't agree with the Zettalkasten structure. That's fine! Tear it apart.
 	- Maybe small, atomic notes don't fit your style. Great! Tear it apart.
 	- Maybe you want [frontmatter](https://github.com/Kernix13/markdown-cheatsheet/blob/master/frontmatter.md) for date-tracking or tagging or something else. Perfect! _Tear it apart_.
-- A good starting point is [[dev-skills]]
 - Take notes as you learn things.
 - Take notes as you do work.
+- A good starting point is [[dev-skills]]
 - Create links between new and old knowledge
 - Setup backup software
 
@@ -28,3 +28,4 @@ This repo is intended to be a note-taking seed that you can grow into a foundati
 - The repo is formatted like a [Zettalkasten](https://zettelkasten.de/introduction/). Follow the format.
 - Don't give answers, don't give the right questions either. Leave just enough that someone can discover what to ask when they need it.
 - Avoid examples, leave hints.
+
